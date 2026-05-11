@@ -10,10 +10,10 @@ import {
 } from "./animations";
 
 const sukritiImg =
-  "https://images.unsplash.com/photo-1642521684111-d5464d8fef88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHByb2Zlc3Npb25hbCUyMHNwZWFrZXIlMjBmYWNpbGl0YXRvciUyMHdvcmtzaG9wfGVufDF8fHx8MTc3ODQ5NDExNnww&ixlib=rb-4.1.0&q=80&w=1080";
+  "https://drive.google.com/file/d/1kwnP6c4pgjDSvqkEr5EvZfsAw2ufIXOB/view?usp=drive_link";
 
 const akashImg =
-  "https://images.unsplash.com/photo-1774437790865-76bfb73d7166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBtYW4lMjBTb3V0aCUyMEFzaWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzc4NDk0MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080";
+  "https://drive.google.com/file/d/1kwnP6c4pgjDSvqkEr5EvZfsAw2ufIXOB/view?usp=drive_link";
 
 const team = [
   {
