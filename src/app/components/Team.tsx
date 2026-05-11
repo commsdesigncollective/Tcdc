@@ -13,7 +13,7 @@ const sukritiImg =
   "https://drive.google.com/file/d/1kwnP6c4pgjDSvqkEr5EvZfsAw2ufIXOB/view?usp=drive_link";
 
 const akashImg =
-  "https://drive.google.com/file/d/1kwnP6c4pgjDSvqkEr5EvZfsAw2ufIXOB/view?usp=drive_link";
+  "https://drive.google.com/uc?export=view&id=1kwnP6c4pgjDSvqkEr5EvZfsAw2ufIXOB";
 
 const team = [
   {
