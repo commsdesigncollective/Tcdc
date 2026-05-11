@@ -10,7 +10,7 @@ import {
 } from "./animations";
 
 const sukritiImg =
-  "https://github.com/commsdesigncollective/Tcdc/blob/main/IMG_6865.JPG";
+  "https://drive.google.com/uc?export=view&id=1g4duxIq5qWMZs8H3iZ1BxjXwkGb9UBV3";
 
 const akashImg =
   "https://drive.google.com/uc?export=view&id=1kwnP6c4pgjDSvqkEr5EvZfsAw2ufIXOB";
