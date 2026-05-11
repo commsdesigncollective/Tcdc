@@ -21,10 +21,6 @@ const team = [
     role: "Founder",
     img: sukritiImg,
     bio: "Sukriti is the heart of our training, research, and facilitation arm. She is incredibly skilled at understanding human behavior, specializing in Gender Sensitivity and Social Emotional Learning. Whether she is leading year-long field research studies or running arts-based workshops for large institutions, Sukriti makes sure the human element is never lost.",
-    education: [
-      "M.A. in Development — Azim Premji University",
-      "M.A. in Psychology — IGNOU",
-    ],
     tags: ["Gender Sensitivity", "SEL", "Ethnographic Research", "Facilitation"],
     variants: slideInLeft,
   },
@@ -33,10 +29,6 @@ const team = [
     role: "Co-Founder",
     img: akashImg,
     bio: "Akash is your go-to guy for all things communications, media, and big-scale events. With over 8 years of experience working across CSR and industry associations, he knows exactly how to build relationships with global stakeholders and get the media's attention. He's the strategist who loves using data to prove that your stories are working.",
-    education: [
-      "8+ years in CSR & Industry Associations",
-      "Global Stakeholder Relations",
-    ],
     tags: ["Strategic Communications", "PR & Media", "Large-Scale Events", "CSR"],
     variants: slideInRight,
   },
